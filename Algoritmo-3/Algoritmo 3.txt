@@ -1,0 +1,8 @@
+-Algoritmo-3
+Se desea desarrollar un algoritmo que permita mostrar la tabla de multiplicar de un número ingresado por el usuario; solo en el caso que el valor del número esté entre 2 y 6.
+1. Inicio
+2. Pedir número al usuario que este entre el 2 y 6
+3. Leer número del usuario que este entre el 2 y 6
+4. Crear tabla de multiplicar = (numeroUsuario*1),(numeroUsuario*2),(numeroUsuario*3),(numeroUsuario*4),(numeroUsuario*5),(numeroUsuario*6),(numeroUsuario*7),(numeroUsuario*8),(numeroUsuario*9),(numeroUsuario*10),(numeroUsuario*11),(numeroUsuario*12)
+5. Mostrar la tabla de multiplicar
+6. Fin 
