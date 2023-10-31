@@ -1,8 +1,0 @@
-1. inicio
-2. pedir la longitud de la base del triangulo 
-3. leer la longitud de la base del triangulo 
-4. pedir la altura del triangulo 
-5. leer la altura del triangulo
-6. calcular el area del triangulo que es igual a la base por su altura 
-7. mortrar el area del triangulo calculado 
-8. fin
