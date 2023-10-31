@@ -1,0 +1,13 @@
+-Algoritmo-9
+El programa debe calcular el área del polígono. La figura se compone de un cuadrado perfecto (A), tres triángulos rectángulos iguales (B, C, E), cuya base mide lo mismo que uno de los lados del cuadrado, y un rectángulo cuyo ancho mide lo mismo que uno de los lados del cuadrado, mientras que la altura mide lo mismo que la altura de los triángulos. Se pide que haga un programa que calcule el área total.
+Por cultura general, sabemos que el área de un rectángulo se calcula multiplicando su base por su altura; el área de un triángulo rectángulo se calcula multiplicando su base por su altura, y luego dividiendo el resultado entre dos; finalmente, el área de un cuadrado se calcula elevando al cuadrado la medida de uno de sus lados.
+La parte interesante de este problema es determinar el mínimo número de datos que hay que preguntar.
+1.	Inicio
+2.	Pedir la medida de uno de los lados de la figura “A”
+3.	Leer la medida de uno de los lados de la figura “A”
+4.	Pedir la altura de la figura “D”
+5.	Leer la altura de la figura “D”
+6.	Calculamos el área del polígono mediante la siguiente formula: 
+        (ladoCuad ^2)+(ladoCuad*alturaRect)+((ladoCuad*alturaRect)/2)*3
+7.	Mostrar el área del polígono 
+8.	Fin
